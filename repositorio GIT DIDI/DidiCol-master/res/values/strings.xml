@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DidiCol</string>
+    <style name="ButtonText">
+	    <item name="android:layout_width">fill_parent</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">#ffffff</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:layout_margin">5dp</item>
+	    <item name="android:textSize">20dp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">2</item>
+	</style>
+	
+
+    <string name="didielraton">Didi el Ratón</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="volveralmapa">Volver al mapa</string>
+    <string name="visitarlugar">Ir</string>
+    <string name="lugaresvisitados">Lugares visitados</string>
+    <string name="comenzar">Comenzar historia</string>
+    <string name="volveradiapositivas">Volver a diapositivas</string>
+    <string name="chinatown">Chinatown</string>
+    <string name="coney">Coney Island</string>
+    <string name="outof">de</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="empirestate">Edificio Empire State</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="volveraver">Volver a ver</string>
+	
+    <string name="dibujos">Dibujos</string>
+    <string name="nueva_pagina">Nueva página</string>
+    <string name="termine">Terminé</string>
+        
+    <string name="arg_seleccion">"El	La		
+ortografía	vocabulario	uso de los verbos				
+está bien	está mal					
+en el inicio porque						
+  	no					
+se hace buen uso de tildes	se hace buen uso de la puntuación	están bien deletreadas las palabras	se usan palabras apropiadas para un texto escrito	se usa un vocabulario variado	están bien conjugados los verbos	se usan correctamente los tiempos verbales
+y	, pero					
+  	no					
+se hace buen uso de tildes	se hace buen uso de la puntuación	están bien deletreadas las palabras	se usan palabras apropiadas para un texto escrito	se usa un vocabulario variado	están bien conjugados los verbos	se usan correctamente los tiempos verbales
+.Además, en el desarrollo						
+está bien	está mal					
+porque						
+  	no					
+se hace buen uso de tildes	se hace buen uso de la puntuación	están bien deletreadas las palabras	se usan palabras apropiadas para un texto escrito	se usa un vocabulario variado	están bien conjugados los verbos	se usan correctamente los tiempos verbales
+y	,pero					
+  	no					
+se hace buen uso de tildes	se hace buen uso de la puntuación	están bien deletreadas las palabras	se usan palabras apropiadas para un texto escrito	se usa un vocabulario variado	están bien conjugados los verbos	se usan correctamente los tiempos verbales
+.Por último, en el final						
+está bien	está mal					
+porque						
+  	no					
+se hace buen uso de tildes	se hace buen uso de la puntuación	están bien deletreadas las palabras	se usan palabras apropiadas para un texto escrito	se usa un vocabulario variado	están bien conjugados los verbos	se usan correctamente los tiempos verbales
+y	,pero					
+  	no					
+se hace buen uso de tildes	se hace buen uso de la puntuación	están bien deletreadas las palabras	se usan palabras apropiadas para un texto escrito	se usa un vocabulario variado	están bien conjugados los verbos	se usan correctamente los tiempos verbales"
+</string>
+    
+</resources>
